@@ -21,6 +21,7 @@ Tenerife tech meetups, people and other stuff around an island that is somewhat 
 ## Groups
 
 * https://groups.google.com/forum/#!forum/canarnova
+* https://www.meetup.com/es-ES/Agile-Canarias/ - Agile Craftmanship Canarias
 * http://www.gdgtenerife.com - Google Developer Group Tenerife
 * http://www.tenerifegoretro.com/ - Retro Gaming Group
 
@@ -37,7 +38,6 @@ Tenerife tech meetups, people and other stuff around an island that is somewhat 
 * http://www.carlosble.com/ - Carlos Ble, mainly Javascript developer, blog
 * http://albertoperdomo.net/ - Alberto Perdomo, mainly Rubys developer, blog
 * http://wagerlabs.com/ - Joel Reymont
-* http://www.atechieintenerife.com/ - Steve Purves
 
 ## Companies & Associations
 
@@ -46,10 +46,12 @@ Tenerife tech meetups, people and other stuff around an island that is somewhat 
 * http://metriz.com/
 * http://www.aentos.com/
 * http://www.internetisimo.com/
+* http://www.euclidity.com/
 
 ## Coworking
 
 * http://www.coworkingnomad.com/ - Office share in Santa Cruz de Tenerife
+* http://www.myplace-canarias.es/en - Coworking Space in La Orotava (Poligono San Jeronimo)
 
 
 Be sure you have seen [meetup page](http://www.meetup.com/TenerifeTech/pages/Bringing_High_Tech_Conferences_to_Tenerife_Oct%2713).
